@@ -1,0 +1,4 @@
+INSERT INTO CUSTOMERS values(1,'rupesh','rk@gmail.com');
+INSERT INTO CUSTOMERS values(2,'Kishor','Kishor@gmail.com');
+INSERT INTO CUSTOMERS values(3,'neha','neha@gmail.com');
+INSERT INTO CUSTOMERS values(4,'puja','puja@gmail.com');

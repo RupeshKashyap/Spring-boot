@@ -1,0 +1,9 @@
+package com.example.demo.utils;
+
+public class Costomers {
+	
+	private int cid;
+	private String cname;
+	private String cemail;
+
+}

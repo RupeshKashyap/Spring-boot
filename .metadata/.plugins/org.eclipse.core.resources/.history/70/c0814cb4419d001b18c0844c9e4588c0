@@ -1,0 +1,9 @@
+package com.example.demo.reposotory;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+
+import com.example.demo.utils.Customers;
+
+public interface CustomerRepo extends JpaRepository<Customers, Integer> {
+
+}
